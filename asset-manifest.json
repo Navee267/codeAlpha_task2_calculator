@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codeAlpha_task2_calculator/static/css/main.54bead5c.css",
+    "main.js": "/codeAlpha_task2_calculator/static/js/main.a8133566.js",
+    "static/js/453.19ecd426.chunk.js": "/codeAlpha_task2_calculator/static/js/453.19ecd426.chunk.js",
+    "index.html": "/codeAlpha_task2_calculator/index.html",
+    "main.54bead5c.css.map": "/codeAlpha_task2_calculator/static/css/main.54bead5c.css.map",
+    "main.a8133566.js.map": "/codeAlpha_task2_calculator/static/js/main.a8133566.js.map",
+    "453.19ecd426.chunk.js.map": "/codeAlpha_task2_calculator/static/js/453.19ecd426.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54bead5c.css",
+    "static/js/main.a8133566.js"
+  ]
+}
